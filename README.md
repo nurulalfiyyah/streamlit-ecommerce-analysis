@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# E-Commerce Data Analysis Dashboard with Streamlit✨
 
 ## Setup Environment - Anaconda
 ```
